@@ -1,21 +1,21 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
+# 📦 iris prediction
 ```
 
-Description of the app ...
+```
+
+this is aa ...
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://app-starter-kit.streamlit.app/](https://iris-classification-project1.streamlit.app/)
 
-## GitHub Codespaces
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
 
-## Section Heading
+## about the files
 
-This is filler text, please replace this with text for this section.
+- streamlit_app.py: contains interface code using streamlit and python
+- trained_model.sav: contains the trained model
+- reqiurement.txt: labery...
 
 ## Further Reading
 
